@@ -1,0 +1,7 @@
+USER PANEL
+username: testuser@gmail.com
+password: Test@123
+
+ADMIN PANEL
+username: admin
+password: Test@123
