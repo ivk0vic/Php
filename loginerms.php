@@ -79,7 +79,7 @@ if(isset($_POST['login']))
                   
                     <p> <input type="submit" class="btn btn-primary btn-user btn-block" name="login" value="login"></p>
 
-                    <hr>
+                  
                   
                   </form>
                   <hr>
@@ -88,6 +88,9 @@ if(isset($_POST['login']))
                   </div>
                   <div class="text-center">
                     <a class="small" href="registererms.php">Create an Account!</a>
+                  </div>
+                  <div class="text-center pt-4">
+                    <a class="h4 text-gray-900" href="index.php">Go back to Home page</a>
                   </div>
                 </div>
               </div>
